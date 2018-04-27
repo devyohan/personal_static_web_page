@@ -1,7 +1,7 @@
 # Site
 title:              'Dev Yohan'
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+bio:                'Data Scientist'
+description:        "Data Scientist"
 locale:             ko_KR
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -35,15 +35,15 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
+# twitter:            default
 facebook:           default
-instagram:          default
+instagram:          devyohan
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+# location:           A
+# phone:              010
+# email:              a@a.com
 
 # Gems
 gems:
