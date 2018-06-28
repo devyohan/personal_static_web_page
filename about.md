@@ -1,82 +1,20 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: DevYohan - About
+description: 개발자 '박요한' 의 프로필을 소개하는 공간입니다.
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
+    lastmod: 2018-06-28
+    changefreq: monthly
 ---
-## About our Site
+## Dev Yohan
 
-<style type="text/css">
-	.progress-label {
-  position: absolute;
-  text-align: center;
-  font-weight: 700;
-  width: 100%;
-  margin: 0;
-  line-height: 1.2rem;
-  white-space: nowrap;
-  overflow: hidden;
-}
+데이터 분석과 분석된 결과를 표현하는 서비스에 관심이 많습니다.
 
-.progress-bar {
-  height: 1.2rem;
-  float: left;
-  background-color: #2979ff;
-}
+### 백엔드 기술
+- Java
+- JavaScript
 
-.progress {
-  display: block;
-  width: 100%;
-  margin: 0.5rem 0;
-  height: 1.2rem;
-  background-color: #eeeeee;
-  position: relative;
-}
-
-.progress.thin {
-  margin-top: 0.9rem;
-  height: 0.4rem;
-}
-
-.progress.thin .progress-label {
-  margin-top: -0.4rem;
-}
-
-.progress.thin .progress-bar {
-  height: 0.4rem;
-}
-
-.progress-100plus .progress-bar {
-  background-color: #00e676;
-}
-
-.progress-80plus .progress-bar {
-  background-color: #fbc02d;
-}
-
-.progress-60plus .progress-bar {
-  background-color: #ff9100;
-}
-
-.progress-40plus .progress-bar {
-  background-color: #ff5252;
-}
-
-.progress-20plus .progress-bar {
-  background-color: #ff1744;
-}
-
-.progress-0plus .progress-bar {
-  background-color: #f50057;
-}
-</style>
-
-<div class="progress progress-100plus">
-    <div class="progress-bar" style="width:100.00%">
-        <p class="progress-label">100%</p>
-    </div>
-</div>
-
+### 분석 기술
+- 기초 통계
+- 기계학습 프레임워크 (Tensorflow, Keras, PyTorch)
