@@ -34,11 +34,11 @@ sass:
 disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
+analytics-id:       "UA-102948526-1"
 # twitter:            default
-facebook:           default
+# facebook:           default
 instagram:          devyohan
-github:             default
+github:             devyohan
 
 # personal
 # location:           A
