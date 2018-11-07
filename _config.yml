@@ -1,63 +1,13 @@
-# Site
-title:              'Dev Yohan'
-bio:                'Data Scientist'
-description:        "Data Scientist"
-locale:             ko_KR
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+title: Brume
+author: Aigars Dzerviniks
+description: It's simple. It's easy to use. It's a Jekyll theme.
 
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/blog/:title/"
-    layout: post
-    author:
+highlighter: null
+permalink: /:title
 
-# Jekyll
-permalink:          /blog/:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
-sass:
-  sass_dir:         _sass
-  style:            compressed
+url:
+baseurl:
 
-# Comments
-disqus_shortname:   default
-
-# Social
-analytics-id:       "UA-102948526-1"
-# twitter:            default
-# facebook:           default
-instagram:          devyohan
-github:             devyohan
-
-# personal
-# location:           A
-# phone:              010
-# email:              a@a.com
-
-# Gems
-gems:
-  - jekyll-mentions
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-
-paginate: 6
-paginate_path: "/blog/page:num/"
-
-jekyll-mentions:
-    base_url: https://devyohan.io
-
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
+# Custom options:
+# color_scheme: azul|ruby|amber|avocado
+# color_scheme: avocado
