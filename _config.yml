@@ -3,7 +3,7 @@ author: Dev Yohan
 description: 양 한마리를 그리는 마음으로!!
 
 highlighter: null
-permalink: /:title
+permalink: /blog/:title
 
 analytics-id: "UA-102948526-1"
 
