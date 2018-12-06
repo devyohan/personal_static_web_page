@@ -16,3 +16,4 @@ baseurl:
 
 plugins:
   - jekyll-sitemap
+  - amp-jekyll
