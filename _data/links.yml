@@ -1,11 +1,14 @@
 - url: /
   title: Home
 
-- url: /blog
-  title: Blog
-
 - url: /about
   title: About
 
-- url: /portfolio
-  title: Portfolio
+- url: /note
+  title: Note
+
+#- url: /blog
+#  title: Blog
+
+#- url: /portfolio
+#  title: Portfolio

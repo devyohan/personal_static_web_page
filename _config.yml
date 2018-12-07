@@ -9,6 +9,7 @@ analytics-id: "UA-102948526-1"
 
 url:
 baseurl:
+ampdir: note
 
 # Custom options:
 # color_scheme: azul|ruby|amber|avocado
