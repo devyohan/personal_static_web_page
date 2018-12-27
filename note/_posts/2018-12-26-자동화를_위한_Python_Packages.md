@@ -2,6 +2,7 @@
 layout: post
 category: note
 title: 자동화를 위한 Python Packages
+tags: 자동화 패키지
 ---
 
 반복적인 작업들을 자동화하여 업무를 편하게 봅시다.
