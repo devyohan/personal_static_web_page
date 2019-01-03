@@ -36,3 +36,4 @@ Apache Spark 2.4.0 버전에 따른 호환 언어 목록
 - https://spark.apache.org/docs/latest/
 - https://www.kdnuggets.com/2018/05/apache-spark-python-scala.html
 - http://bcho.tistory.com/1031?category=563141
+- https://dzone.com/articles/scala-vs-python-for-apache-spark
