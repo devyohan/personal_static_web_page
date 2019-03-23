@@ -1,7 +1,7 @@
 baseURL = "https://devyohan.io"
-title   = "Hello Friend NG"
+title   = "DevYohan"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "ko"
 
 theme = "hello-friend-ng"
 
@@ -38,7 +38,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "DevYohan"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "DevYohan - 양 한 마리가 들어있는 상자"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -78,7 +78,7 @@ disableHugoGeneratorInject = false
   themeColor = "#252627"
 
   [params.logo]
-    logoText     = "$ cd /home/"
+    logoText     = "$ cd ~/devyohan/"
     logoHomeLink = "/"
 
   # Social icons
@@ -99,22 +99,26 @@ disableHugoGeneratorInject = false
     url  = "https://www.linkedin.com/"
 
 [languages]
-  [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+  [languages.ko]
+    subtitle  = "DevYohan - 양 한마리가 들어있는 상자"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+#  [languages.en]
+#    subtitle  = "DevYohan"
+#    weight    = 1
+#    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-  [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+#  [languages.fr]
+#    subtitle  = "DevYohan"
+#    weight    = 2
+#    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "소개"
     url        = "about/"
   [[menu.main]]
     identifier = "posts"
-    name       = "Posts"
+    name       = "포스트"
     url        = "posts/"
