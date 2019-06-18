@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
-languageCode = "ko-kr"
-defaultContentLanguage = "ko"
-title = "Dev Yohan"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Hugo Hermit"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -14,7 +14,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "Yohan Park"
+  name = "John Doe"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -36,7 +36,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "양 한마리가 들어있는 개발 상자"
+  homeSubtitle = "A minimal and fast theme for Hugo."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -51,17 +51,17 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
-  # [[params.social]]
-  #   name = "twitter"
-  #   url = "https://twitter.com/"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/"
 
   [[params.social]]
     name = "instagram"
-    url = "https://instagram.com/devyohan/"
+    url = "https://instagram.com/"
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/devyohan/"
+    url = "https://github.com/"
 
 [menu]
 
@@ -71,6 +71,6 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     weight = 10
 
   [[menu.main]]
-    name = "About Yohan"
-    url = "about-yohan/"
+    name = "About"
+    url = "about-hugo/"
     weight = 20
