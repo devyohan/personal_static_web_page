@@ -1,4 +1,4 @@
-baseURL = "https://devyohan.io/"
+baseURL = "/"
 languageCode = "ko-kr"
 defaultContentLanguage = "ko"
 title = "Dev Yohan"
