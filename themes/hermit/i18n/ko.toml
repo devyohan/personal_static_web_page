@@ -21,10 +21,10 @@ other = "{{ .WordCount }} Words"
 other = "Table of Contents"
 
 [newer]
-other = "최신 내용"
+other = "다음글"
 
 [older]
-other = "과거 내용"
+other = "이전글"
 
 # partials/header.html
 #

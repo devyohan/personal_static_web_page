@@ -36,7 +36,7 @@ googleAnalytics = "UA-88848412-1"
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "양 한마리가 들어있는 개발 상자"
+  homeSubtitle = "양 한마리가 들어있는 상자"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -71,6 +71,11 @@ googleAnalytics = "UA-88848412-1"
     weight = 10
 
   [[menu.main]]
-    name = "About Yohan"
+    name = "About_Yohan"
     url = "about-yohan/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Portfolio"
+    url = "portfolio/"
     weight = 20
