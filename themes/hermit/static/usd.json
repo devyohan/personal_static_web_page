@@ -1,6 +1,3 @@
-// 20200219133644
-// https://m.stock.naver.com/api/json/marketindex/marketIndexDay.nhn?marketIndexCd=FX_USDKRW&pageSize=20&page=1
-
 {
     "result": {
       "marketIndexDay": Array[20][
